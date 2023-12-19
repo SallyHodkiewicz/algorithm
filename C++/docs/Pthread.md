@@ -1,8 +1,8 @@
-# Linux系统编程
+ #Linux系统编程
 
 ## 参考资料
 
-* [UNIX环境高级编程](https://book.douban.com/subject/1788421/)
+# [UNIX环境高级编程](https://book.douban.com/subject/1788421/)
 
 ### 
 
@@ -16,3 +16,4 @@
 #### Lab6 [信号量实现**哲学家进餐问题**](../src/Pthread/lab6/philosopher.c)
 #### Lab7 [信号量/共享内存实现**生产者消费者问题**](../src/Pthread/lab7/producerAndconsumer.c)
 
+ 
